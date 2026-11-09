@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" role="img" aria-label="Channel Sticker Pack placeholder image 3">
+<rect width="500" height="500" fill="#0B1C2C"/>
+<circle cx="250" cy="235" r="180" fill="#1e3a5f" opacity=".45"/>
+<g transform="translate(250 240) scale(.8) translate(-250 -240)"><rect x="140" y="130" width="220" height="200" rx="12" fill="#E08A2C"/><path d="M140 175 H360 M140 220 H360 M140 265 H360 M185 130 V330 M230 130 V330 M275 130 V330 M320 130 V330" stroke="#fff" stroke-opacity=".35" stroke-width="4"/></g>
+<text x="250" y="430" text-anchor="middle" font-family="system-ui, sans-serif" font-size="18" fill="#E08A2C">Channel Sticker Pack</text>
+<text x="250" y="460" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#E08A2C" opacity=".7">placeholder 3/3</text>
+</svg>

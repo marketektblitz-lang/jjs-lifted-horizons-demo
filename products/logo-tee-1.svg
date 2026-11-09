@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" role="img" aria-label="JJ's Lifted Horizons Tee placeholder image 1">
+<rect width="500" height="500" fill="#F4F1EA"/>
+<circle cx="250" cy="235" r="160" fill="#d6d0c4" opacity=".45"/>
+<g transform=""><path d="M150 120 L210 95 Q250 120 290 95 L350 120 L390 190 L345 210 L340 330 L160 330 L155 210 L110 190 Z" fill="#0B1C2C"/></g>
+<text x="250" y="430" text-anchor="middle" font-family="system-ui, sans-serif" font-size="18" fill="#F4F1EA">JJ's Lifted Horizons Tee</text>
+<text x="250" y="460" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#0B1C2C" opacity=".7">placeholder 1/3</text>
+</svg>

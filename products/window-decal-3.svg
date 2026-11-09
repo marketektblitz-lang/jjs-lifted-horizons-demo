@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" role="img" aria-label="Lifted Horizons Window Decal placeholder image 3">
+<rect width="500" height="500" fill="#F4F1EA"/>
+<circle cx="250" cy="235" r="180" fill="#d6d0c4" opacity=".45"/>
+<g transform="translate(250 240) scale(.8) translate(-250 -240)"><rect x="145" y="160" width="210" height="140" rx="14" fill="#0B1C2C"/><rect x="165" y="185" width="170" height="14" rx="7" fill="#fff" opacity=".4"/></g>
+<text x="250" y="430" text-anchor="middle" font-family="system-ui, sans-serif" font-size="18" fill="#F4F1EA">Lifted Horizons Window Decal</text>
+<text x="250" y="460" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#0B1C2C" opacity=".7">placeholder 3/3</text>
+</svg>
